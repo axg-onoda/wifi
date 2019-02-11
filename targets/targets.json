@@ -3039,6 +3039,9 @@
                 "value": 1
             }
         },
+        "overrides": {
+            "network-default-interface-type": "WIFI"
+        },
         "detect_code": ["9020"],
         "device_has_add": ["ANALOGOUT", "CAN", "LOWPOWERTIMER", "TRNG", "FLASH", "MPU"],
         "features": ["LWIP"],

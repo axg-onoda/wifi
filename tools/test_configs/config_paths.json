@@ -7,6 +7,7 @@
     "ODIN_ETHERNET" : "Odin_EthernetInterface.json",
     "REALTEK_WIFI" : "RealtekInterface.json",
     "ESP8266_WIFI" : "ESP8266Interface.json",
+    "ESP32_WIFI" : "ESP32Interface.json",
     "ISM43362_WIFI" : "ISM43362Interface.json",
     "IDW0XX1_WIFI" : "SpwfSAInterface.json",
     "6LOWPAN_HOST" : "6lowpanInterface_host.json",
